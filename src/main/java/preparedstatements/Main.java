@@ -34,7 +34,7 @@ public class Main {
 
 			mySql.connect();
 
-			int repetitions = 2000;
+			int repetitions = 100000;
 			
 			// Normale Queries
 			{
